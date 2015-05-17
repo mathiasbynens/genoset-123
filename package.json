@@ -1,6 +1,6 @@
 {
 	"name": "genoset-123",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Determines if a genome has an increased risk of basal cell carcinoma as per gs123.",
 	"homepage": "https://mths.be/gs123",
 	"main": "index.js",
